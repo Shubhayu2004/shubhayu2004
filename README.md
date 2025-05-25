@@ -1,16 +1,65 @@
 ## Hi there 👋
+# 👋 Hey, I’m Shubhayu Sarkar
 
-<!--
-**Shubhayu2004/shubhayu2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently diving into Web Dev, AI/ML, and Systems Programming  
+👯 I love collaborating on impactful, technically exciting hackathon projects  
+🤝 Looking for help with advanced deep learning concepts & scalable backend systems  
+💬 Ask me about MERN stack, music production, or movie recommendations  
+🎧 Fun fact: I’m the batch coordinator of Euphony, a music lover, and a hackathon nerd  
+📍 Based in: New Delhi | Studying at IIEST Shibpur
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/shubhayu-sarkar-6b3811285)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=for-the-badge)](https://github.com/Shubhayu2004)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:Shubhayu.sarkar02@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Shubhayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhayu2004&show_icons=true&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhayu2004&layout=compact&theme=react&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shubhayu2004&theme=onedark&margin-w=10&margin-h=10&row=1)](https://github.com/Shubhayu2004)
+
+---
+
+## ✍️ Dev Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 🔝 Top Repository
+
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shubhayu2004&repo=committee-scheduler&theme=react)](https://github.com/Shubhayu2004/committee-scheduler)
+
+---
+
+_Thanks for visiting! Let's build something cool together 🚀_
+
+

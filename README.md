@@ -56,7 +56,7 @@
 
 ## 🔝 Top Repository
 
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shubhayu2004&repo=committee-scheduler&theme=react)](https://github.com/Shubhayu2004/committee-scheduler)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shubhayu2004&repo=cs-2191&theme=react)](https://github.com/Shubhayu2004/cs-2191)
 
 ---
 

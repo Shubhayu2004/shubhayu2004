@@ -4,8 +4,6 @@
 🔭 I’m currently diving into Web Dev, AI/ML, and Systems Programming  
 👯 I love collaborating on impactful, technically exciting hackathon projects  
 🤝 Looking for help with advanced deep learning concepts & scalable backend systems  
-💬 Ask me about MERN stack, music production, or movie recommendations  
-🎧 Fun fact: I’m the batch coordinator of Euphony, a music lover, and a hackathon nerd  
 📍 Based in: New Delhi | Studying at IIEST Shibpur
 
 ---

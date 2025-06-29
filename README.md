@@ -52,9 +52,26 @@
 
 ---
 
-## 🔝 Top Repository
+## 🔝 Top Repositories
 
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shubhayu2004&repo=cs-2191&theme=react)](https://github.com/Shubhayu2004/cs-2191)
+### 📊 FinSight-Ai  
+[![FinSight-Ai](https://github-readme-stats.vercel.app/api/pin/?username=Shubhayu2004&repo=FinSight-Ai&theme=react)](https://github.com/Shubhayu2004/FinSight-Ai)
+
+> AI-powered financial insight engine for analyzing company reports and trends using LLMs.
+
+---
+
+### 🔐 adv_neural_crypto  
+[![adv_neural_crypto](https://github-readme-stats.vercel.app/api/pin/?username=Shubhayu2004&repo=adv_neural_crypto&theme=react)](https://github.com/Shubhayu2004/adv_neural_crypto)
+
+> Advanced neural networks (LSTM, Transformers) for forecasting cryptocurrency prices.
+
+---
+
+### 🚚 Supply-chain  
+[![Supply-chain](https://github-readme-stats.vercel.app/api/pin/?username=Shubhayu2004&repo=Supply-chain&theme=react)](https://github.com/Shubhayu2004/Supply-chain)
+
+> Blockchain-based traceability solution for transparent supply chain management.
 
 ---
 
